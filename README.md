@@ -10,3 +10,4 @@ https://developer.mozilla.org/ko/docs/Web/HTTP/Basics_of_HTTP
 [1. 웹의 리소스 식별하기](https://github.com/Hajin-Lee0406/HTTP-study/blob/main/CH01.%20%EB%A6%AC%EC%86%8C%EC%8A%A4%EC%99%80%20URIs/1.%20%EC%9B%B9%EC%9D%98%20%EB%A6%AC%EC%86%8C%EC%8A%A4%20%EC%8B%9D%EB%B3%84%ED%95%98%EA%B8%B0.md)</br>
 [2. 데이터 URLs](https://github.com/Hajin-Lee0406/HTTP-study/blob/main/CH01.%20%EB%A6%AC%EC%86%8C%EC%8A%A4%EC%99%80%20URIs/2.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20URLs.md)</br>
 [3. MIME 타입](https://github.com/Hajin-Lee0406/HTTP-study/blob/main/CH01.%20%EB%A6%AC%EC%86%8C%EC%8A%A4%EC%99%80%20URIs/3.%20MIME%20%ED%83%80%EC%9E%85(IANA%20%EB%AF%B8%EB%94%94%EC%96%B4%20%ED%83%80%EC%9E%85).md)</br>
+[4. HTTP 개요](https://github.com/Hajin-Lee0406/HTTP-study/commit/090797d79e1cd8353639267537b78d89425310e3)</br>
