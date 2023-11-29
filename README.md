@@ -13,3 +13,4 @@ https://developer.mozilla.org/ko/docs/Web/HTTP/Basics_of_HTTP
 [4. HTTP 개요](https://github.com/Hajin-Lee0406/HTTP-study/commit/090797d79e1cd8353639267537b78d89425310e3)</br>
 [5. HTTP의 진화](https://github.com/Hajin-Lee0406/HTTP-study/commit/2986babc986bc30eb34069ea437f5ba7b81e973a)</br>
 [6. HTTP 메시지](https://github.com/Hajin-Lee0406/HTTP-study/blob/main/CH02.%20HTTP%20%EC%95%88%EB%82%B4%EC%84%9C/HTTP%20%EB%A9%94%EC%8B%9C%EC%A7%80.md)</br>
+[7. 전형적인 HTTP 세션](https://github.com/Hajin-Lee0406/HTTP-study/blob/main/CH02.%20HTTP%20%EC%95%88%EB%82%B4%EC%84%9C/4.%20%EC%A0%84%ED%98%95%EC%A0%81%EC%9D%B8%20HTTP%20%EC%84%B8%EC%85%98.md)</br>
