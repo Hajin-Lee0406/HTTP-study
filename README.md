@@ -16,3 +16,4 @@ https://developer.mozilla.org/ko/docs/Web/HTTP/Basics_of_HTTP
 [7. 전형적인 HTTP 세션](https://github.com/Hajin-Lee0406/HTTP-study/blob/main/CH02.%20HTTP%20%EC%95%88%EB%82%B4%EC%84%9C/4.%20%EC%A0%84%ED%98%95%EC%A0%81%EC%9D%B8%20HTTP%20%EC%84%B8%EC%85%98.md)</br>
 [8. HTTP/1.x의 커넥션 관리](https://github.com/Hajin-Lee0406/HTTP-study/blob/main/CH02.%20HTTP%20%EC%95%88%EB%82%B4%EC%84%9C/5.%20HTTP1.x%EC%9D%98%20%EC%BB%A4%EB%84%A5%EC%85%98%20%EA%B4%80%EB%A6%AC.md)</br>
 [9. 콘텐츠 보안 정책](https://github.com/Hajin-Lee0406/HTTP-study/tree/main/CH03.%20HTTP%20%EB%B3%B4%EC%95%88)</br>
+[10. Strict-Transport-Security](https://github.com/Hajin-Lee0406/HTTP-study/blob/main/CH03.%20HTTP%20%EB%B3%B4%EC%95%88/2.%20Strict-Transport-Security(HSTS).md)</br>
