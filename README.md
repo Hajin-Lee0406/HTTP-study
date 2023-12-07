@@ -17,3 +17,4 @@ https://developer.mozilla.org/ko/docs/Web/HTTP/Basics_of_HTTP
 [8. HTTP/1.x의 커넥션 관리](https://github.com/Hajin-Lee0406/HTTP-study/blob/main/CH02.%20HTTP%20%EC%95%88%EB%82%B4%EC%84%9C/5.%20HTTP1.x%EC%9D%98%20%EC%BB%A4%EB%84%A5%EC%85%98%20%EA%B4%80%EB%A6%AC.md)</br>
 [9. 콘텐츠 보안 정책](https://github.com/Hajin-Lee0406/HTTP-study/tree/main/CH03.%20HTTP%20%EB%B3%B4%EC%95%88)</br>
 [10. Strict-Transport-Security](https://github.com/Hajin-Lee0406/HTTP-study/blob/main/CH03.%20HTTP%20%EB%B3%B4%EC%95%88/2.%20Strict-Transport-Security(HSTS).md)</br>
+[11. X-Content-Type-Options](https://github.com/Hajin-Lee0406/HTTP-study/blob/main/CH03.%20HTTP%20%EB%B3%B4%EC%95%88/3.%20X-Content-Type-Options.md)</br>
