@@ -19,3 +19,4 @@ https://developer.mozilla.org/ko/docs/Web/HTTP/Basics_of_HTTP
 [10. Strict-Transport-Security](https://github.com/Hajin-Lee0406/HTTP-study/blob/main/CH03.%20HTTP%20%EB%B3%B4%EC%95%88/2.%20Strict-Transport-Security(HSTS).md)</br>
 [11. X-Content-Type-Options](https://github.com/Hajin-Lee0406/HTTP-study/blob/main/CH03.%20HTTP%20%EB%B3%B4%EC%95%88/3.%20X-Content-Type-Options.md)</br>
 [12. X-Frame-Options](https://github.com/Hajin-Lee0406/HTTP-study/blob/main/CH03.%20HTTP%20%EB%B3%B4%EC%95%88/4.%20X-Frame-Options.md)</br>
+[13. X-XSS-Protection](https://github.com/Hajin-Lee0406/HTTP-study/blob/main/CH03.%20HTTP%20%EB%B3%B4%EC%95%88/5.%20X-XSS-Protection.md)</br>
