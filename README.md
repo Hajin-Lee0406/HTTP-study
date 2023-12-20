@@ -21,3 +21,4 @@ https://developer.mozilla.org/ko/docs/Web/HTTP/Basics_of_HTTP
 [12. X-Frame-Options](https://github.com/Hajin-Lee0406/HTTP-study/blob/main/CH03.%20HTTP%20%EB%B3%B4%EC%95%88/4.%20X-Frame-Options.md)</br>
 [13. X-XSS-Protection](https://github.com/Hajin-Lee0406/HTTP-study/blob/main/CH03.%20HTTP%20%EB%B3%B4%EC%95%88/5.%20X-XSS-Protection.md)</br>
 [14. CORS](https://github.com/Hajin-Lee0406/HTTP-study/blob/main/CH03.%20HTTP%20%EB%B3%B4%EC%95%88/6.%20%EA%B5%90%EC%B0%A8%20%EC%B6%9C%EC%B2%98%20%EB%A6%AC%EC%86%8C%EC%8A%A4%20%EA%B3%B5%EC%9C%A0(CORS).md)</br>
+[15. HTTP 인증](https://github.com/Hajin-Lee0406/HTTP-study/blob/main/2.%20HTTP%20%EC%9D%B8%EC%A6%9D.md)</br>
