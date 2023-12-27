@@ -22,3 +22,7 @@ https://developer.mozilla.org/ko/docs/Web/HTTP/Basics_of_HTTP
 [13. X-XSS-Protection](https://github.com/Hajin-Lee0406/HTTP-study/blob/main/CH03.%20HTTP%20%EB%B3%B4%EC%95%88/5.%20X-XSS-Protection.md)</br>
 [14. CORS](https://github.com/Hajin-Lee0406/HTTP-study/blob/main/CH03.%20HTTP%20%EB%B3%B4%EC%95%88/6.%20%EA%B5%90%EC%B0%A8%20%EC%B6%9C%EC%B2%98%20%EB%A6%AC%EC%86%8C%EC%8A%A4%20%EA%B3%B5%EC%9C%A0(CORS).md)</br>
 [15. HTTP 인증](https://github.com/Hajin-Lee0406/HTTP-study/blob/main/2.%20HTTP%20%EC%9D%B8%EC%A6%9D.md)</br>
+[16. HTTP 캐싱](https://github.com/Hajin-Lee0406/HTTP-study/blob/main/3.%20HTTP%20%EC%BA%90%EC%8B%B1.md)</br>
+[17. HTTP 압축](https://github.com/Hajin-Lee0406/HTTP-study/blob/main/4.%20HTTP%20%EC%95%95%EC%B6%95.md)</br>
+[18. HTTP 조건부 요청](https://github.com/Hajin-Lee0406/HTTP-study/blob/main/5.%20HTTP%20%EC%A1%B0%EA%B1%B4%EB%B6%80%20%EC%9A%94%EC%B2%AD.md)</br>
+[19. 콘텐츠 협상](https://github.com/Hajin-Lee0406/HTTP-study/blob/main/6.%20%EC%BD%98%ED%85%90%EC%B8%A0%20%ED%98%91%EC%83%81.md)</br>
