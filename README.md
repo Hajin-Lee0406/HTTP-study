@@ -26,3 +26,6 @@ https://developer.mozilla.org/ko/docs/Web/HTTP/Basics_of_HTTP
 [17. HTTP 압축](https://github.com/Hajin-Lee0406/HTTP-study/blob/main/4.%20HTTP%20%EC%95%95%EC%B6%95.md)</br>
 [18. HTTP 조건부 요청](https://github.com/Hajin-Lee0406/HTTP-study/blob/main/5.%20HTTP%20%EC%A1%B0%EA%B1%B4%EB%B6%80%20%EC%9A%94%EC%B2%AD.md)</br>
 [19. 콘텐츠 협상](https://github.com/Hajin-Lee0406/HTTP-study/blob/main/6.%20%EC%BD%98%ED%85%90%EC%B8%A0%20%ED%98%91%EC%83%81.md)</br>
+[20. HTTP 쿠키](https://github.com/Hajin-Lee0406/HTTP-study/blob/main/7.%20HTTP%20%EC%BF%A0%ED%82%A4.md)</br>
+[21. HTTP 범위 요청](https://github.com/Hajin-Lee0406/HTTP-study/blob/main/8.%20HTTP%20%EB%B2%94%EC%9C%84%20%EC%9A%94%EC%B2%AD.md)</br>
+[22. HTTP 리다이렉트](https://github.com/Hajin-Lee0406/HTTP-study/blob/main/9.%20HTTP%20%EB%A6%AC%EB%8B%A4%EC%9D%B4%EB%A0%89%ED%8A%B8.md)</br>
